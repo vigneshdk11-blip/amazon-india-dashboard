@@ -1,6 +1,3 @@
-# amazon-india-dashboard
-Amazon India sales dashboard built in Excel (sales, profit, products, orders, payments, states)
-
 # Amazon India Dashboard
 A management dashboard built in Excel for Amazon India sales data
 (10,000 orders, Jan 2024 – Aug 2026).
